@@ -1,0 +1,25 @@
+.lista-categorias{
+    margin: 24px 0;
+    font-family: 'Teko', sans-serif;
+}
+
+
+.lista-categorias label{
+    
+    font-size: 20px;
+    font-weight: 400;
+    display: block;
+    margin-bottom: 8px;
+    color: #F5F5F5;
+}
+
+.lista-categorias select{
+    width: 100%;
+    background-color: #53585D;
+    border-radius: 4px;
+    padding: 30px 20px;
+    border: none;
+    outline-color: #6278F7;
+    font-size: 16px;
+    color: #E5E5E5;
+}

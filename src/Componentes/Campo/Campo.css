@@ -1,0 +1,33 @@
+.campo{
+    margin: 24px 0;
+    font-family: 'Teko', sans-serif;
+}
+
+.campo label{
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    display: block;
+    margin-bottom: 8px;
+    color: #F5F5F5;
+}
+
+.campo input{
+    width: 100%;
+    background-color: #53585D;    
+    border: none;
+    padding: 30px 20px;
+    outline-color: #6278F7;
+    font-size: 16px;
+    border-radius: 4px;    
+    box-sizing: border-box;
+}
+
+.campo ::placeholder{
+    color: #E5E5E5;
+}
+
+.campo-color input{
+    height: 40px;
+    padding: 5px 20px;        
+}

@@ -1,0 +1,20 @@
+.nueva-cat{
+    display: flex;
+    justify-content: center;   
+    background: rgba(0, 0, 0, 0.9);  
+
+}
+
+.nueva-cat form{
+    width: 80%;
+}
+
+.nueva-cat h1{
+    display: flex;
+    justify-content: center;    
+    font-family: 'Teko', sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    color: #F5F5F5;
+    margin: 20px;    
+}

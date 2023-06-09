@@ -1,0 +1,45 @@
+table{
+    border: 4px solid #2A7AE4;
+    border-collapse: collapse;
+}
+
+.lista-categorias{    
+    border-radius: 5px;
+    
+}
+
+.encabezados{    
+    color: #F5F5F5F5;
+    font-size: 35px;            
+}
+
+th{
+    border: 4px solid #2A7AE4;
+       
+}
+
+.lista-contenido, td{    
+    color: #E5E5E5;
+    font-size: 27px;
+    border: 4px solid rgba(0, 0, 0, 0.9);
+}
+
+.btn-editar{
+    border: none;
+    background: #9E9E9E;
+    border-radius: 4px;
+    padding: 12px 30px;
+    font-family: 'Teko', sans-serif;
+    font-size: 27px;
+    margin: 12px;
+}
+
+.btn-eliminar{
+    border: none;
+    background: #E53935;
+    border-radius: 4px;
+    padding: 12px 30px;
+    font-family: 'Teko', sans-serif;
+    font-size: 27px;
+    margin: 12px;
+}

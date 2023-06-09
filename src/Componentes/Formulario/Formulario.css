@@ -1,0 +1,27 @@
+.formulario{
+    display: flex;
+    justify-content: center;   
+    background: rgba(0, 0, 0, 0.9);  
+
+}
+
+.formulario form{
+    width: 80%;
+}
+
+.formulario h1{
+    display: flex;
+    justify-content: center;    
+    font-family: 'Teko', sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    color: #F5F5F5;
+    margin: 20px;    
+}
+
+.contenedor-btns{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;        
+}
+

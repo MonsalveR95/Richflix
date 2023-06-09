@@ -1,0 +1,14 @@
+.categoria{
+    background: rgba(0, 0, 0, 0.9);
+    padding: 24px;
+}
+
+.categoria h1{
+    font-weight: 400;
+    color: #212121;
+    border: 4px solid;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 4px;
+    color: #E5E5E5;
+}

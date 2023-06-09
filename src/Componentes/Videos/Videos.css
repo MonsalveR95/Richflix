@@ -1,0 +1,13 @@
+.videos h1{
+    font-size: 24px;
+    font-weight: 100;
+    margin: 10px 20px;
+}
+
+.videos img{
+    margin: 10px 20px;
+    border: solid 4px;
+    border-radius: 10px;
+    width: 35%;    
+}
+
